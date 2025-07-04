@@ -1,8 +1,9 @@
-streamlit>=1.32
-scikit-learn>=1.4
-joblib>=1.2
-pandas>=1.5
-numpy>=1.22
-matplotlib>=3.5
-Pillow>=9.0
+streamlit
+scikit-learn
+joblib
+pandas
+numpy
+matplotlib
+Pillow
+
 
